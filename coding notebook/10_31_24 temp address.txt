@@ -1,0 +1,10 @@
+28C8BBF80F00002D GREEN DATA
+283CD3F80F0000AC YELLOW DATA
+
+
+00110101000000000000000011110000000111111100101100111100000101
+
+283CD3F80F0000AC
+
+TO address to temp sensors individually we used an Arduino to first scan for the addresses unique to each temperature sensors
+this allows us to get the two hex codes above to use in our code.
