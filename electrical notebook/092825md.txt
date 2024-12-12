@@ -1,0 +1,15 @@
+add low profile LEDs to the thing gpios
+add i2c docs 
+
+st link can be gotten by snapping off the board
+
+add both rotary encoder and button foot
+
+https://www.digikey.gr/en/products/detail/microchip-technology/LM2575-5-0WU-TR/16679461 1amp 12-5 still sold
+https://www.digikey.com/en/products/detail/umw/LM2576HVS-5.0/16842165?utm_adgroup=&utm_source=google&utm_medium=cpc&utm_campaign=PMax%20Shopping_Product_Medium%20ROAS%20Categories&utm_term=&utm_content=&utm_id=go_cmp-20223376311_adg-_ad-__dev-c_ext-_prd-16842165_sig-CjwKCAjw9eO3BhBNEiwAoc0-jYd5ob5RUJbtTl6sFYK9u-wImWuzCIFns9EZVwcPpncvzJKP0B6vDxoC_t4QAvD_BwE&gad_source=1&gclid=CjwKCAjw9eO3BhBNEiwAoc0-jYd5ob5RUJbtTl6sFYK9u-wImWuzCIFns9EZVwcPpncvzJKP0B6vDxoC_t4QAvD_BwE
+
+can vdd be grounded and the power source be the external for the mcu?
+
+check the currents on the BD and do math :(
+alternate button arrangement
+connect vdd on the STLINK to gnd: https://community.st.com/t5/stm32-mcus-boards-and-hardware/stm32f407-discovery-external-power-st-link/td-p/171502

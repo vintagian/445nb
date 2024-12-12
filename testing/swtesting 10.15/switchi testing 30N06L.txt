@@ -1,0 +1,9 @@
+Tested MOSFET switch with 30N06L connected to a resistive network at the gate with 10k resistors as well as tested gate and drain voltages
+3.3V gate: produced very noisy results and bad switching characteristics
+5V gate: results were better at least the voltage across the load has a higher more stable voltage but still a decent amount of noise.
+the 0 was also more defined compared to the 3.3V
+
+We will attempt with a different transistor that can potentially switch better at 3.3V with less noise. Noise may be caused by faulty connections on the breadboard as fiddling with the connections sometimes causes stable voltage. 
+
+need to find a transistor with correct packaging
+

@@ -1,0 +1,18 @@
+problem statement introduction
+
+CAD by Monday, nutrients(simulation and circuit)
+
+https://vivonomicon.com/2018/05/05/your-own-hardware-designing-an-stm32-development-board/1000/
+
+figure out the lights
+
+fix the BDv3
+me: flesh out the kicad more with prelim circuit diagrams
+
+trisha: BOM and eecshop
+
+morgan: pre-finalize enclosure and lights
+
+adafruit tb6612 motor driver available
+
+TB6612FNG - TB6612FNG_datasheet_en_20121101.pdf -available instantly

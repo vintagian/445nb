@@ -1,0 +1,25 @@
+To do tonight:
+ECE 311 code
+Current and power writeup and block diagram
+To do for Tuesday:
+Ask the TA: Are PCBway pcbs free
+Do we get to add pre soldered components on the PCBs
+high level requirements
+
+dress up 
+everyone has to speak equally
+get ready to ask questions -> anything4
+
+28 lm2575
+17 tlv
+16 lm2576
+15 tps564208
+
+25 light
+26 humidity
+18 roenc
+23 temp
+22 fs
+19 micro controller
+18 stepper motor driver
+13 tft13)

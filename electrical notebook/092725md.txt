@@ -1,0 +1,55 @@
+Friday: fix proposal
+	-fix problem statement
+	- high level requirements
+	- BD
+Thursday: submit design docs
+- finish the schematic
+	- control -> display shenanigans and stm32 stuff
+	- lights -> stepper motor(today find the driver)
+	- power -> understand the amperage requirements and make the proper infrastructure
+	- SIM SIM SIM SIM SIM SIM
+- do/finish the cad
+- do the writing
+
+
+
+Design
+
+    Block Diagram:
+
+    A general block diagram of the design of your solution. Each block should be as modular as possible and represent a subsystem of your design. In other words, they can be implemented independently and re-assembled later. The block diagram should be accompanied by a brief (1 paragraph) description of the critical subsystems and what they do.
+    Physical Design (if applicable):
+
+    A physical diagram of the project indicating things such as mechanical dimensions or placement of sensors and actuators. The physical diagram should also be accompanied by a brief one paragraph description.
+    [Subsystem X]
+
+    For each subsystem in your block diagram, you should include a highly detailed and quantitative block description. Each description must include a statement indicating how the block contributes to the overall design dictated by the high-level requirements. Any and all design decisions must be clearly justified. Any interfaces with other blocks must be defined clearly and quantitatively.
+
+    Include any relevant supporting figures and data in order to clearly illustrate and justify the design. Typically a well justified block design will include some or all of the following items: Circuit schematics, simulations, calculations, measurements, flow charts, mechanical diagrams (e.g. CAD drawings, only necessary for mechanical components).
+
+    You must include a Requirements and Verifications table. Please see the R&V page for guidance on writing requirements and verification procedures.
+    [Subsystem Y]
+
+    ...
+    [Subsystem Z]
+
+    ...
+    Tolerance Analysis: Through discussions with your TA, identify the block or interface critical to the success of your project that poses the most challenging requirement. Analyze it mathematically and show that it can be feasibly implemented and meet its requirements. See the Tolerance Analysis guide for further guidance.
+
+Cost and Schedule
+
+    Cost Analysis: Include a cost analysis of the project by following the outline below. Include a list of any non-standard parts, lab equipment, shop services, etc., which will be needed with an estimated cost for each.
+        Labor: (For each partner in the project)
+        Assume a reasonable salary
+
+        ($/hour) x 2.5 x hours to complete = TOTAL
+
+        Then total labor for all partners. It's a good idea to do some research into what a graduate from ECE at Illinois might typically make.
+        Parts: Include a table listing all parts (description, manufacturer, part #, quantity and cost) and quoted machine shop labor hours that will be needed to complete the project.
+        Sum of costs into a grand total
+
+    Schedule:
+
+    Include a time-table showing when each step in the expected sequence of design and construction work will be completed (general, by week), and how the tasks will be shared between the team members. (i.e. Select architecture, Design this, Design that, Buy parts, Assemble this, Assemble that, Prepare mock-up, Integrate prototype, Refine prototype, Test integrated system).
+
+
